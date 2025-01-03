@@ -2,10 +2,6 @@
 
 Este repositorio contiene el código fuente de una API REST desarrollada con Spring Boot, que utiliza una base de datos PostgreSQL y está documentada con Swagger.
 
-## Descripción
-
-[Breve descripción de la API. Por ejemplo: "Esta API proporciona endpoints para gestionar una biblioteca, permitiendo la creación, lectura, actualización y eliminación de libros y autores, almacenando los datos en una base de datos PostgreSQL."]
-
 ## Tecnologías Utilizadas
 
 *   Java [Versión de Java]
